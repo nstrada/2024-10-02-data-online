@@ -13,8 +13,8 @@ humandate: "Sep 24-Oct 2, 2024"    # human-readable dates for the workshop (e.g.
 humantime: "9:00 am - 12:00 pm EST"    # human-readable times for the workshop e.g., "9:00 am - 4:30 pm CEST (7:00 am - 2:30 pm UTC)"
 startdate: 2024-09-24      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2024-10-02        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
-instructor: ["Natalia Estrada"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
-helper: ["Jocelyn Swick-Jemison"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
+instructor: ["Natalia Estrada", "Jocelyn Swick-Jemison"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
+helper: ["Meghana Hosur Nanje Gowda", "Charish Bhimarasetty", "Vivek Singh", "Bhavika Bheemreddy", "Spandana Chepuri"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["jswick@buffalo.edu"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
 collaborative_notes:  # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document (e.g., https://pad.carpentries.org/2015-01-01-euphoria)
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
